@@ -119,7 +119,7 @@ p
 {
     font-size: 16px;
     line-height: 30px;
-    color: #555;
+    color: #black;
     margin: 0;
     font-weight: 400;
 }
@@ -624,7 +624,7 @@ ul.social-media-icon li:nth-child(3) a:before {
     background-color: #f1f1f1;
 }
 .recent-causes-urgent .goal span {
-    color: #555;
+    color: #black;
 }
 .what-we-provide {
     margin-top: -80px;
@@ -694,7 +694,7 @@ ul.social-media-icon li:nth-child(3) a:before {
 }
 .help-man-data ul li {
     font-size: 18px;
-    color: #555;
+    color: #black;
     padding-top: 10px;
     display: flex;
     align-items: center;
@@ -828,7 +828,7 @@ ul.social-media-icon li:nth-child(3) a:before {
 }
 .upcoming-event-data h6{
     font-size: 16px;
-    color: #555;
+    color: #black;
     margin-bottom: 0;
 }
 .upcoming-event-data h4 {
@@ -921,7 +921,7 @@ ul.social-media-icon li:nth-child(3) a:before {
 }
 ul.heart li{
     font-size: 18px;
-    color: #555;
+    color: #black;
 }
 .change-we-need {
     padding-left: 65px;
@@ -1075,7 +1075,7 @@ ul.heart li{
 }
 .gifts-img h6{
     font-size: 14px;
-    color: #555;
+    color: #black;
     padding-left: 5px;
     margin: 0;
 }
@@ -1312,11 +1312,11 @@ ul.social-media i {
     flex-wrap: wrap;
 }
 .Information ul li a {
-    color: #d7d7d7;
+    color: #black; /*d7d7d7*/
     padding-left: 8px;
 }
 .Information ul li {
-    color: #d7d7d7;
+    color: #black; /*d7d7d7*/
     width: 50%;
     padding-bottom: 25px;
 }
@@ -1328,11 +1328,11 @@ ul.social-media i {
     margin-bottom: 0;
     font-size: 18px;
     line-height: 26px;
-    color: #cecece;
+    color: #black; /*cecece*/
     font-weight: 500;
 }
 .contact-info a {
-    color: #cecece;
+    color: #black; /*cecece*/
     padding-left: 5px;
     font-weight: 500;
     font-size: 18px;
@@ -1435,7 +1435,7 @@ ul.social-media i {
 .goal span{
     font-size: 15px;
     font-weight: bold;
-    color: #555;
+    color: #black;
 }
 .recent-causes-data {
     width: 82%;
@@ -2180,7 +2180,7 @@ footer.footer-two .widget-title h3{
 footer.footer-two .widget-title p,footer.footer-two .Information ul li a,
 footer.footer-two .Information ul li,footer.footer-two .contact-info h5,
 footer.footer-two .contact-info a{
-    color: #555;
+    color: #black;
 }
 footer.footer-two .wpo-lower-footer {
     transform: translateY(0px);
@@ -2200,7 +2200,7 @@ footer.footer-two .footer-bootom-bar {
     margin-bottom: 30px;
 }
 footer.footer-two .wpo-lower-footer .boder {
-    background-color: #555;
+    background-color: #black;
     height: 20px;
 }
 /* 27. home 3 */
@@ -2613,7 +2613,7 @@ footer.footer-two .wpo-lower-footer .boder {
     font-size: 13px;
 }
 .gifts-img.style-two .start h6{
-    color: #555;
+    color: #black;
     font-size: 13px;
 }
 .gifts-img.style-two .add-hover i{
@@ -2644,11 +2644,11 @@ form.community-form input {
     padding-left: 100px;
     outline: none;
     margin-bottom: 15px;
-    color: #555;
+    color: #black;
     font-weight: bold;
 }
 form.community-form input::placeholder{
-    color: #555;
+    color: #black;
     font-weight: bold;
 }
 form.community-form svg {
@@ -2680,7 +2680,7 @@ form.community-form i:before {
 }
 .news-article-two h5 {
     margin-bottom: 0;
-    color: #555;
+    color: #black;
     font-size: 16px;
 }
 .news-article-two span{
@@ -2799,7 +2799,7 @@ ul.image-gallery li {
     color: white;
 }
 .heading h6{
-    color: #555;
+    color: #black;
     font-weight: 400;
 }
 .believe-water{
@@ -2899,7 +2899,7 @@ ul.image-gallery li {
     background-color: #ff3636;
 }
 .donate.volunteer p {
-    color: #555;
+    color: #black;
 }
 .donate.volunteer.two h3,.donate.volunteer.two p{
     color: white;
@@ -3220,7 +3220,7 @@ ul.social-media-icon.full li a i{
 .footer-logo p {
     padding-top: 35px;
     padding-bottom: 50px;
-    color: #e5e5e5;
+    color: #black;
     width: 75%;
 }
 .footer-logo svg {
@@ -3228,7 +3228,7 @@ ul.social-media-icon.full li a i{
     fill: white;
 }
 .footer-logo span{
-   color: #e5e5e5;
+   color: #black;
 }
 .footer-logo h4{
    color: white;
@@ -3261,7 +3261,7 @@ ul.social-media-icon.full li{
     position: relative;
 }
 .footer-from ::placeholder{
-    color: #555;
+    color: #black;
 }
 .footer-from input{
     width: 100%;
@@ -3269,7 +3269,7 @@ ul.social-media-icon.full li{
     height: 66px;
     background-color: white;
     padding-left: 30px;
-    color: #555;
+    color: #black;
     outline: none;
     border: 0;
 }
@@ -3410,7 +3410,7 @@ ol.breadcrumb {
 }
 ul.heart li {
     font-size: 18px;
-    color: #555;
+    color: #black;
     display: flex;
     align-items: baseline;
 }
@@ -3488,7 +3488,7 @@ ul.heart li {
     background-color: #e4e4e4;
 }
 .team-data-page .contact-info h5,.team-data-page .contact-info a {
-   color: #555;
+   color: #black;
 }
 /* 57. details-or-information */
 .details-or-information {
@@ -3514,7 +3514,7 @@ ul.heart li {
     padding-right: 10px;
 }
 .team-list li{
-    color: #555;
+    color: #black;
     font-size: 18px;
 }
 .team-info.volunteer-for li{
@@ -3534,12 +3534,12 @@ ul.heart li {
     padding-left: 30px;
     outline: none;
     background-color: white;
-    color: #555;
+    color: #black;
     border: 1px solid #c1c1c1;
     border-radius: 40px;margin-bottom: 20px;
 }
 .teme-from input ::placeholder{
-    color: #555;
+    color: #black;
 }
 .teme-from textarea {
    width: 100%;
@@ -3548,7 +3548,7 @@ ul.heart li {
     padding-top: 20px;
     outline: none;
     background-color: white;
-    color: #555;
+    color: #black;
     border: 1px solid #c1c1c1;
     border-radius: 40px;margin-bottom: 20px;
 }
@@ -3699,7 +3699,7 @@ ul.give-donation-levels-wrap a.donating.give-donation-level-btn:hover {
     right: 28px;
     border-left: 5px solid transparent;
     border-right: 4px solid transparent;
-    border-top: 10px solid #555;
+    border-top: 10px solid #black;
     transition: all 300ms ease;
     -webkit-transform-origin: 66% 66%;
     -ms-transform-origin: 66% 66%;
@@ -3766,7 +3766,7 @@ span.current {
 .enter-your-information label {
     font-size: 17px;
     font-weight: bold;
-    color: #555;
+    color: #black;
     width: 100%;
     padding-bottom: 4px;
 }
@@ -3791,7 +3791,7 @@ span.current {
     margin-bottom: 20px;
     padding-left: 30px;
     font-weight: bold;
-    color: #555;
+    color: #black;
 }
 .nice-select:active, .nice-select.open, .nice-select:focus{
     border: 1px solid #ddd;
@@ -3799,7 +3799,7 @@ span.current {
 .enter-your-information input::placeholder{
     font-size: 14px;
     font-weight: bold;
-    color: #555;
+    color: #black;
 }
 .enter-your-information .nice-select.Advice {
     margin-right: 10px;
@@ -4002,11 +4002,11 @@ li.single-comment.children {
     margin-bottom: 20px;
     border-radius: 40px;
     padding-left: 30px;
-    color: #555;
+    color: #black;
 }
 .leave-comment input::placeholder,
 .leave-comment textarea::placeholder{
-    color: #555;
+    color: #black;
 }
 .leave-comment textarea{
     width: 100%;
@@ -4017,7 +4017,7 @@ li.single-comment.children {
     margin-bottom: 20px;
     border-radius: 40px;
     padding-left: 30px;
-    color: #555;
+    color: #black;
 }
 /* 68. sidebar */
 .sidebar h3{
@@ -4410,10 +4410,10 @@ ul.specification li span {
 }
 .get-involved.contact h6{
     margin-bottom: 0;
-    color: #555;
+    color: #black;
 }
 .get-involved.contact a{
-    color: #555;
+    color: #black;
     padding-left: 10px;
 }
 .get-involved.data.contact:hover{
@@ -5610,7 +5610,7 @@ section.gap.about-img-slidr {
   background-color: #333;
 }
 #button:active {
-  background-color: #555;
+  background-color: #black;
 }
 #button.show {
   opacity: 1;
@@ -5651,7 +5651,7 @@ header.two nav ul ul li a {
 /* 94. header three */
 header.three .phone span,header.three .phone a,
 header.three ul.social-media-icon li a .icon,header.three .login a,header.three .login > i{
-    color: #555;
+    color: #black;
 }
 header.three ul.social-media-icon li a:hover .icon{
     color: white;
