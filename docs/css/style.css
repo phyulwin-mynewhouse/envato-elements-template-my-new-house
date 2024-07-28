@@ -181,7 +181,7 @@ figure {
 /* 1. home 1 */
 /* top bar 1 */
 .top-bar {
-    background-color: #26268e;
+    background-color: #cbdb2a;
     height: 120px;
     padding-top: 15px;
 }
@@ -662,7 +662,7 @@ ul.social-media-icon li:nth-child(3) a:before {
     position: absolute;
     font-size: 20px;
     font-weight: 700;
-    background-color: #26268e;
+    background-color: #cbdb2a;
     color: white;
     bottom: 12px;
     width: 60%;
@@ -676,7 +676,7 @@ ul.social-media-icon li:nth-child(3) a:before {
     content: "";
     width: 0;
     height: 0;
-    border-bottom: 35px solid #26268e;
+    border-bottom: 35px solid #cbdb2a;
     border-left: 45px solid transparent;
     top: -24px;
     right: 13%;
@@ -804,7 +804,7 @@ ul.social-media-icon li:nth-child(3) a:before {
     position: relative;
 }
 .upcoming-event-time{
-    background-color: #26268e;
+    background-color: #cbdb2a;
 }
 .upcoming-event-time h4{
     font-size: 40px;
@@ -854,7 +854,7 @@ ul.social-media-icon li:nth-child(3) a:before {
     position: absolute;
     width: 0%;
     height: 100%;
-    background-color: #26268ed6;
+    background-color: #cbdb2ad6;
     opacity: 0;
 }
 .upcoming-event-img:hover figure:before {
@@ -1259,7 +1259,7 @@ footer:before {
     content: "";
     width: 100%;
     height: 100%;
-    background-color: #26268e;
+    background-color: #cbdb2a;
     opacity: .95;
     top: 0;
 }
@@ -1474,7 +1474,7 @@ ul.social-media i {
     border-radius: 25px;
 }
 .item.recent-causes i {
-    background-color: #26268e;
+    background-color: #cbdb2a;
     display: flex;
     position: absolute;
     width: 60px;
@@ -1542,7 +1542,7 @@ ul.social-media i {
 .featured-area-two:before {
     position: absolute;
     content: "";
-    background-color: #26268e;
+    background-color: #cbdb2a;
     height: 100%;
     width: 100%;
     top: 0;
@@ -1715,7 +1715,7 @@ ul.social-media i {
 .accordion-item.active a.heading {
     border-radius: 45px;
     color: white;
-    background-color: #26268e;
+    background-color: #cbdb2a;
 }
 .accordion-item.active .icon {
     background-color: #ff3636;
@@ -1742,7 +1742,7 @@ ul.social-media i {
 }
 .urgent-causes {
     display: flex;
-    background-color: #26268e;
+    background-color: #cbdb2a;
     padding: 40px;
     border-radius: 40px;
 }
@@ -2021,7 +2021,7 @@ ul.social-media i {
     left: 0;
     width: 100%;
     height: 100%;
-    background-color: #26268e;
+    background-color: #cbdb2a;
     opacity: .8;
 }
 .support h2{
@@ -2129,7 +2129,7 @@ ul.want-to-Join-data li i {
     margin-bottom: -100px;
 }
 .team-join:hover .team-join-data{
-    background-color: #26268e;
+    background-color: #cbdb2a;
 }
 .team-join:hover .team-hover {
     display: block;
@@ -2224,7 +2224,7 @@ footer.footer-two .wpo-lower-footer .boder {
     content: "";
     width: 100%;
     height: 100%;
-    background-color: #26268e;
+    background-color: #cbdb2a;
     left: 0;
     mix-blend-mode: multiply;
 }
@@ -2437,7 +2437,7 @@ footer.footer-two .wpo-lower-footer .boder {
 .charity-style-three figure:before {
     position: absolute;
     content: "";
-    background-color: #26268e;
+    background-color: #cbdb2a;
     opacity: .9;
     width: 0%;
     height: 100%;
@@ -2537,7 +2537,7 @@ footer.footer-two .wpo-lower-footer .boder {
 .fundraising-data {
     position: relative;
     padding: 40px;
-    background-color: #26268e;
+    background-color: #cbdb2a;
     text-align: center;
     transform: translateY(140px);
     margin-top: -140px;
@@ -2867,7 +2867,7 @@ ul.image-gallery li {
     line-height: 26px;
 }
 .empowers {
-    background-color: #26268e;
+    background-color: #cbdb2a;
     width: 68%;
     position: absolute;
     text-align: center;
@@ -2885,7 +2885,7 @@ ul.image-gallery li {
     background-color: white;
 }
 .donate.volunteer i{
-    background-color: #26268e;
+    background-color: #cbdb2a;
 }
 .volunteer:hover a i{
     transform: rotatey(0deg);
@@ -2929,7 +2929,7 @@ ul.image-gallery li {
     top: 0;
     width: 100%;
     height: 100%;
-    background-color: #26268e;
+    background-color: #cbdb2a;
     opacity: .8;
     background-repeat: no-repeat;
     background-size: cover;
@@ -3148,7 +3148,7 @@ ul.image-gallery li {
     bottom: 120px;
 }
 .see-impact-slids .owl-nav button i {
-    background-color: #26268e;
+    background-color: #cbdb2a;
     line-height: 0;
     width: 60px;
     height: 60px;
@@ -3468,7 +3468,7 @@ ul.heart li {
     text-transform: capitalize;
 }
 .share-post-icon ul.social-media-icon.full li a{
-    background-color: #26268e;
+    background-color: #cbdb2a;
     width: 60px;
     height: 60px;
 }
@@ -3582,7 +3582,7 @@ ul.heart li {
 }
 /* 60. please-donate-today */
 .please-donate-today {
-    background-color: #26268e;
+    background-color: #cbdb2a;
     padding: 70px;
     border-radius: 35px;
     position: relative;
@@ -3879,7 +3879,7 @@ body.drak-mode .enter-your-information input.give-submit:hover{
     line-height: 50px;
 }
 .quote {
-    background-color: #26268e;
+    background-color: #cbdb2a;
     padding: 50px;
     border-radius: 35px;
     width: 95%;
@@ -3925,12 +3925,12 @@ body.drak-mode .enter-your-information input.give-submit:hover{
     font-size: 14px;
     color: white;
     padding: 20px;
-    background-color: #26268e;
+    background-color: #cbdb2a;
     font-weight: bold;
 }
 /* 65. about-the-theodore */
 .about-the-theodore ul.social-media-icon.full li a{
-    background-color: #26268e;
+    background-color: #cbdb2a;
     font-size: 17px;
 }
 .about-the-theodore ul.social-media-icon.full li a i{
@@ -4044,7 +4044,7 @@ li.single-comment.children {
     font-weight: bold;
     font-size: 13px;
     color: white;
-    background-color: #26268e;
+    background-color: #cbdb2a;
     padding: 12px 12px;
     line-height: 0;
     display: inline-block;
@@ -4227,7 +4227,7 @@ ul.instagram-posts figure:hover:before{
 }
 .flex-column {
     display: -webkit-box;
-    background-color: #26268e;
+    background-color: #cbdb2a;
     border-radius: 43px;
     width: 94%;
     margin: auto;
@@ -4417,8 +4417,8 @@ ul.specification li span {
     padding-left: 10px;
 }
 .get-involved.data.contact:hover{
-    background-color: #26268e;
-    border: 1px solid #26268e;
+    background-color: #cbdb2a;
+    border: 1px solid #cbdb2a;
 }
 .get-involved.data.contact:hover a,
 .get-involved.data.contact:hover h6,
@@ -4506,7 +4506,7 @@ ul.specification li span {
 }
 button.error-button {
     position: absolute;
-    background-color: #26268e;
+    background-color: #cbdb2a;
     color: white;
     width: 55px;
     height: 55px;
@@ -4573,7 +4573,7 @@ button.error-button {
     height: 100%;
     z-index: 1;
     opacity: 0;
-    background-color: #26268e;
+    background-color: #cbdb2a;
     transition: 0.5s;
     border-radius: 35px;
 }
@@ -4675,7 +4675,7 @@ form.checkout-meta .checkout-side input[type='radio']:after{
 .checkout-side {
     padding: 60px;
     color: white;
-    background-color: #26268e;
+    background-color: #cbdb2a;
     border-radius: 40px;
 }
 .checkout-side ul {
@@ -4746,7 +4746,7 @@ form.variations_form .btn{
     margin-top: 30px;
 }
 .wishlist i {
-    background-color: #26268e;
+    background-color: #cbdb2a;
     color: white;
     width: 60px;
     font-size: 22px;
@@ -4815,7 +4815,7 @@ li.li-pd-imgs.nav-active{
 li.li-pd-imgs.nav-active:before {
     content: "";
     position: absolute;
-    background-color: #26268eb0;
+    background-color: #cbdb2ab0;
     width: 100%;
     height: 100%;
     border-radius: 20px;
@@ -4884,7 +4884,7 @@ li.li-pd-imgs.nav-active:before {
     line-height: 40px;
     color: white;
     padding: 40px 80px;
-    background-color: #26268e;
+    background-color: #cbdb2a;
     border-radius: 35px;
 }
 
@@ -4904,7 +4904,7 @@ table.shop_table {
 table.shop_table thead {
     height: 75px;
     color: white;
-    background-color: #26268e;
+    background-color: #cbdb2a;
     -moz-border-radius: 3px;
     -webkit-border-radius: 100px;
     border-radius: 100px;
@@ -4994,7 +4994,7 @@ table.shop_table td.product-price {
 .cart_totals {
     text-transform: uppercase;
     padding: 54px;
-    background-color: #26268e;
+    background-color: #cbdb2a;
     color: white;
     border-radius: 35px;
     text-align: inherit;
@@ -5389,8 +5389,8 @@ li.menu-item-has-children.active {
     border: 1px solid #ff3636;
 }
 .cart-popup .cart-btns a.checkout:hover{
-    background-color: #26268e ;
-    border: 1px solid #26268e;
+    background-color: #cbdb2a ;
+    border: 1px solid #cbdb2a;
 }
 .cart-popup .cart-btns a {
     font-size: 16px;
