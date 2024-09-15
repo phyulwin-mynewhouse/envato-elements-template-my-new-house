@@ -1,6 +1,6 @@
 # Copyright Disclaimer for Envato Elements Assets
 
-**Prepared by:** Zorayda Mejia  
+**Prepared by:** Phyu Lwin, Zorayda Mejia (assets owner) 
 **Email:** zoraydamejia@msn.com
 
 This repository contains code and assets licensed under the **Envato Elements License**. While the code is public on GitHub, it is important to note that only subscribed users of Envato Elements have the right to use the assets included in this repository. This disclaimer outlines the key points of the licensing, ensuring that users can understand their rights and responsibilities.
