@@ -1249,7 +1249,7 @@ ul.heart li{
 /* 13. footer one */
 footer {
     position: relative;
-    overflow: hidden;
+    /*overflow: hidden;*/
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
